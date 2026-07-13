@@ -19,7 +19,6 @@
 - 🎓 Biomedical Engineering undergrad @ Salim Habib University (2023–2027)
 - 💼 Data Science Intern @ **CloudExify** — sales analysis & K-means customer segmentation
 - 🧠 Researching **US-YOLOv11 thyroid nodule detection** (TN5000 dataset, mAP@0.5: 0.877) — targeting IEEE publication
-- 🤝 Freelancing on **Upwork** — RAG chatbots & workflow automation
 - 🌐 IEEE WIE volunteer — RoboFest'24, INMIC, ICETBEST
 
 ---
