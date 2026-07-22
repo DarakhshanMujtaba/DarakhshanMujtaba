@@ -1,9 +1,9 @@
-[README (2).md](https://github.com/user-attachments/files/29974263/README.2.md)
+[README.md](https://github.com/user-attachments/files/30272151/README.md)
 <h1 align="center">Hi 👋, I'm Darakhshan Mujtaba</h1>
-<h3 align="center">Biomedical Engineer building AI/ML systems at the intersection of healthcare & automation</h3>
+<h3 align="center">Biomedical Engineer building AI/ML systems — RAG, agents, and computer vision</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=RAG+Pipelines+%7C+LangChain+%2B+ChromaDB+%2B+Groq;Computer+Vision+%7C+YOLOv11+for+Medical+Imaging;Workflow+Automation+%7C+n8n;Biomedical+%2B+AI+%7C+ECG+%2B+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=RAG+Pipelines+%7C+FastAPI+%2B+ChromaDB+%2B+Groq;LangGraph+Multi-Step+Agents;Computer+Vision+%7C+YOLOv11+for+Medical+Imaging;Workflow+Automation+%7C+n8n" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 ### 🩺 About Me
 
 - 🎓 Biomedical Engineering undergrad @ Salim Habib University (2023–2027)
-- 💼 Data Science Intern @ **CloudExify** — sales analysis & K-means customer segmentation
-- 🧠 Researching **US-YOLOv11 thyroid nodule detection** (TN5000 dataset, mAP@0.5: 0.877) — targeting IEEE publication
-- 🌐 IEEE WIE volunteer — RoboFest'24, INMIC, ICETBEST
+- 💼 Data Science Intern @ **CloudExify** — sales analytics & RFM-based K-Means customer segmentation
+- 🧠 Building production-grade **RAG systems** and **LangGraph agents**, with a research background in medical imaging (US-YOLOv11 thyroid nodule detection, mAP@0.5: 0.877)
+- 🌱 Currently deepening skills in Docker/cloud deployment and voice AI integrations
 
 ---
 
@@ -29,32 +29,41 @@
 <tr>
 <td width="50%">
 
-**🤖 RAG Chatbot**
-Full-stack retrieval-augmented chatbot — FastAPI backend, ChromaDB vector store, JWT auth, Groq-served LLM inference.
+**🤖 [RAG Chatbot](https://github.com/DarakhshanMujtaba/rag-chatbot)**
+Production-grade retrieval-augmented chatbot — FastAPI backend, ChromaDB vector store, JWT auth, served via Groq's Llama 3.3 70B.
 `FastAPI` `ChromaDB` `LangChain` `Groq`
 
 </td>
 <td width="50%">
 
-**⚡ n8n Inbox Triage Automation**
-Automated Gmail inbox triage workflow — classifies, prioritizes, and routes incoming mail without manual sorting.
-`n8n` `Automation` `Gmail API`
+**🧭 [Research Agent](https://github.com/DarakhshanMujtaba/research-agent)**
+LangGraph-based multi-step research agent that plans, retrieves, and synthesizes answers across sources autonomously.
+`LangGraph` `LLM Agents` `Python`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🔬 US-YOLOv11 Thyroid Nodule Detection**
-Medical object detection model with EMA attention, auxiliary P2 detection head, and Wise-IoU v3 loss on ultrasound imaging.
-`YOLOv11` `PyTorch` `Medical Imaging`
+**📰 [Fake News Detection](https://github.com/DarakhshanMujtaba/fake-news-detection)**
+TF-IDF + Logistic Regression classifier (98.83% accuracy), deployed on Streamlit with coefficient-based explainability.
+`Scikit-learn` `NLP` `Streamlit`
 
 </td>
 <td width="50%">
 
-**❤️ CardioBot**
-AI-assisted ECG analysis system combining signal processing with machine learning for cardiac health insights.
-`ECG` `Machine Learning` `Healthcare AI`
+**⚡ [Inbox Triage Assistant](https://github.com/DarakhshanMujtaba/inbox-triage-assistant-n8n)**
+n8n workflow that classifies incoming Gmail, auto-labels by priority, and drafts LLM-generated replies.
+`n8n` `Automation` `Gmail API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2">
+
+**🔬 US-YOLOv11 — Thyroid Nodule Detection**
+Medical object detection model with EMA attention, an auxiliary P2 detection head, and Wise-IoU v3 loss on the TN5000 ultrasound dataset — targeting IEEE publication.
+`YOLOv11` `PyTorch` `Medical Imaging`
 
 </td>
 </tr>
@@ -98,4 +107,4 @@ AI-assisted ECG analysis system combining signal processing with machine learnin
 
 ---
 
-<p align="center"><i>Open to freelance work in RAG systems, LLM applications, and workflow automation — let's build something.</i></p>
+<p align="center"><i>Open to freelance and full-time work in RAG systems, LLM agents, and workflow automation — let's build something.</i></p>
