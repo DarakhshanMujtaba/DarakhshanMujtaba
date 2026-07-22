@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30272151/README.md)
+[README.md](https://github.com/user-attachments/files/30272227/README.md)
 <h1 align="center">Hi 👋, I'm Darakhshan Mujtaba</h1>
 <h3 align="center">Biomedical Engineer building AI/ML systems — RAG, agents, and computer vision</h3>
 
@@ -97,7 +97,7 @@ Medical object detection model with EMA attention, an auxiliary P2 detection hea
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DarakhshanMujtaba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DarakhshanMujtaba&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarakhshanMujtaba&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
